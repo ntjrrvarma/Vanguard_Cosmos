@@ -26,5 +26,6 @@ A GenAI-powered Developer Onboarding Platform that acts as an intelligent, multi
 4.  **Architectural Map:** A visual node graph showing how files connect.
 
 ## 5. Impact (AI For Bharat)
+* **Rural Innovation:**  Enabling non-English speaking talent in remote areas to participate in the global open-source economy.
 * **Democratization:** Making "Silicon Valley" level code accessible to rural India.
 * **Upskilling:** accelerating the learning curve for India's future workforce.
